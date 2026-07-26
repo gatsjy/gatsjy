@@ -32,8 +32,8 @@
 
 ## 📌 Featured Projects
 
-- ☁️ **AWS & EKS 기반 쿠버네티스 클라우드 아키텍처 & EFK 로그 모니터링 구축**
-  - **AWS 클라우드 인프라**: VPC Multi-AZ 이중화 Subnet, Bastion Host, NAT Instance 구축 및 IAM / MFA 보안 설정
+- ☁️ **[직무부트캠프] 금융 IT기업 현직자와 함께하는 Linux 기반 IT 운영 실무 경험**
+  - **AWS 클라우드 인프라 구축**: VPC Multi-AZ 이중화 Subnet, Bastion Host, NAT Instance 구축 및 IAM / MFA 보안 정책 수립
   - **EKS & Kubernetes 서비스**: Amazon EKS 클러스터 & Worker NodeGroup 구성, Nginx 컨테이너 배포 및 LoadBalancer 연동
   - **EFK Stack 로그 모니터링**: Fluentd(DaemonSet) 기반 컨테이너 중앙 집중 로그 수집, Elasticsearch 인덱싱 및 Kibana 시각화 대시보드 구축
   - **클라우드 운영 & 백업 정책**: CloudWatch / CloudTrail / VPC Flow Logs 모니터링 및 EC2 백업·복구 정책 수립
@@ -45,7 +45,7 @@
 ## 🛠 Tech Stack
 
 - **Languages & Frameworks**: C#, WPF, Java, Python, SQL (Oracle, MySQL)
-- **Cloud & DevOps**: AWS (VPC, EKS, EC2, IAM, CloudWatch), Kubernetes, Docker, EFK Stack (Elasticsearch, Fluentd, Kibana)
+- **Cloud & DevOps**: AWS (VPC, EKS, EC2, IAM, CloudWatch), Kubernetes, Docker, EFK Stack (Elasticsearch, Fluentd, Kibana), Linux
 - **Domain Skills**: HIS/EMR (처방, 간호, 응급, 약무), 데이터중심병원 연구, 공공데이터 관리, 시큐어 코딩
 - **Infra & Security**: 서버/네트워크/시스템 운영, 정보보안 · 개인정보보호 (학습 중 🔐)
 
