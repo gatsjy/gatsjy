@@ -7,14 +7,12 @@
 
 ## 🏥 About Me & Career Experience
 
-### 💻 차세대 의료정보시스템(HIS/EMR) 개발 및 구축
-- **대형병원 차세대 프로젝트 구축 & 운영 (SI / SM)**
-  - 전남대학교병원, 이대목동병원, 이대서울병원, 신촌세브란스병원, 강남세브란스병원
-- **핵심 개발 모듈**
-  - 💊 **처방 제어 & 환자 안전 (CPOE & Clinical Safety)**: 메인 처방 엔진 개발, DUR(의약품 안전사용서비스) 실시간 금기 의약품 검증, ADR(약물이상반응) 추적·모니터링 체계 구축
-  - 🩺 **임상 간호 & 특수 약무 솔루션 (Nursing & Pharmacy Systems)**: 병동·외래·주사실 간호 워크플로우 개발, 항암주사실 투약 프로토콜 및 마약·향정신성 의약품 추적·통제 관리 화면 구현
-  - 🚨 **응급 & 권역외상 EMR (Emergency & Trauma Care EMR)**: 응급의료센터 및 권역외상센터 EMR 특화 설계 및 개발
-  - 🔗 **인터페이스 융합 & 데이터 보안 (Interface Integration & Security)**: 혈액투석 EMR 데이터 연동, 외부 연동 전용 보안 View/API 아키텍처 설계 및 시큐어 코딩(SQL Injection 방어, 접근 제어)
+### 💻 차세대 의료정보시스템(HIS/EMR) 구축 및 운영
+- **차세대 의료정보시스템 구축 및 운영 경험** (전남대병원, 이화목동병원, 이화서울병원, 신촌세브란스, 강남세브란스)
+- **주요 세부 업무**
+  - **처방**: 메인 처방, DUR, 약물이상관리 등
+  - **간호**: 병동, 외래, 행정, 주사실
+  - **응급/외상**: 응급의료센터 및 권역외상센터 담당
 
 ### 🏥 대학병원 전산실 — 인프라 운영 & 데이터중심병원 연구원
 - **인프라 통합 관리**: 서버, 네트워크, DB 및 전산 시스템 전반 운영 및 유지관리
@@ -32,6 +30,7 @@
 
 ## 📌 Featured Projects
 
+- 🖥️ **[window_log_monitor](https://github.com/gatsjy/window_log_monitor)**: Windows 서버 ~50대 대상 중앙 로그 수집·모니터링 & 알람 오픈소스 시스템 (Grafana, Loki, Prometheus, Alloy, Alertmanager, PostgreSQL)
 - ☁️ **[직무부트캠프] 금융 IT기업 현직자와 함께하는 Linux 기반 IT 운영 실무 경험** *(2022.08 ~ 2022.09)*
   - **AWS 클라우드 인프라 구축**: VPC Multi-AZ 이중화 Subnet, Bastion Host, NAT Instance 구축 및 IAM / MFA 보안 정책 수립
   - **EKS & Kubernetes 서비스**: Amazon EKS 클러스터 & Worker NodeGroup 구성, Nginx 컨테이너 배포 및 LoadBalancer 연동
@@ -45,7 +44,7 @@
 ## 🛠 Tech Stack
 
 - **Languages & Frameworks**: C#, WPF, Java, Python, SQL (Oracle, MySQL)
-- **Cloud & DevOps**: AWS (VPC, EKS, EC2, IAM, CloudWatch), Kubernetes, Docker, EFK Stack (Elasticsearch, Fluentd, Kibana), Linux
+- **Cloud & DevOps**: AWS (VPC, EKS, EC2, IAM, CloudWatch), Kubernetes, Docker, Loki, Prometheus, Grafana, Linux
 - **Domain Skills**: HIS/EMR (처방, 간호, 응급, 약무), 데이터중심병원 연구, 공공데이터 관리, 시큐어 코딩
 - **Infra & Security**: 서버/네트워크/시스템 운영, 정보보안 · 개인정보보호 (학습 중 🔐)
 
