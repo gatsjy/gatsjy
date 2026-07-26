@@ -13,8 +13,8 @@
 - **핵심 개발 모듈**
   - 💊 **처방 제어 & 환자 안전 (CPOE & Clinical Safety)**: 메인 처방 엔진 개발, DUR(의약품 안전사용서비스) 실시간 금기 의약품 검증, ADR(약물이상반응) 추적·모니터링 체계 구축
   - 🩺 **임상 간호 & 특수 약무 솔루션 (Nursing & Pharmacy Systems)**: 병동·외래·주사실 간호 워크플로우 개발, 항암주사실 투약 프로토콜 및 마약·향정신성 의약품 추적·통제 관리 화면 구현
-  - 🚨 **응급 & 권역외상 특화 EMR (Emergency & Trauma Care EMR)**: 골든타임 확보를 위한 응급의료센터 및 권역외상센터 전용 실시간 EMR 특화 모듈 설계 및 구축
-  - 🔗 **인터페이스 융합 & 데이터 보안 (Interface Integration & Security)**: 혈액투석 EMR 데이터 연동, 외부 계계 연동 전용 보안 View/API 아키텍처 설계 및 시큐어 코딩(SQL Injection 방어, 접근 제어)
+  - 🚨 **응급 & 권역외상 EMR (Emergency & Trauma Care EMR)**: 응급의료센터 및 권역외상센터 EMR 특화 설계 및 개발
+  - 🔗 **인터페이스 융합 & 데이터 보안 (Interface Integration & Security)**: 혈액투석 EMR 데이터 연동, 외부 연동 전용 보안 View/API 아키텍처 설계 및 시큐어 코딩(SQL Injection 방어, 접근 제어)
 
 ### 🏥 대학병원 전산실 — 인프라 운영 & 데이터중심병원 연구원
 - **인프라 통합 관리**: 서버, 네트워크, DB 및 전산 시스템 전반 운영 및 유지관리
