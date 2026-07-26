@@ -39,8 +39,13 @@
 
 ---
 
-## 📜 Certifications & Languages
+## 📜 Certifications & Awards
 
+### 🏆 Awards
+- 🥇 **대상** — 건양대학교 미래기술융합연구원장 (2016.06.16)
+  - 2016학년도 1학기 『병원전산실무』 교과 팀 프로젝트 성과 발표회 1등 (대상)
+
+### 📜 Certifications & Language
 - **자격증**: 정보처리기사, DASP (데이터아키텍처 준전문가), SQLD (SQL 개발자)
 - **어학**: TOEIC 805
 
