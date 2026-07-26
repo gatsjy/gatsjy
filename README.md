@@ -32,7 +32,7 @@
 
 ## 📌 Featured Projects
 
-- ☁️ **[직무부트캠프] 금융 IT기업 현직자와 함께하는 Linux 기반 IT 운영 실무 경험**
+- ☁️ **[직무부트캠프] 금융 IT기업 현직자와 함께하는 Linux 기반 IT 운영 실무 경험** *(2022.08 ~ 2022.09)*
   - **AWS 클라우드 인프라 구축**: VPC Multi-AZ 이중화 Subnet, Bastion Host, NAT Instance 구축 및 IAM / MFA 보안 정책 수립
   - **EKS & Kubernetes 서비스**: Amazon EKS 클러스터 & Worker NodeGroup 구성, Nginx 컨테이너 배포 및 LoadBalancer 연동
   - **EFK Stack 로그 모니터링**: Fluentd(DaemonSet) 기반 컨테이너 중앙 집중 로그 수집, Elasticsearch 인덱싱 및 Kibana 시각화 대시보드 구축
@@ -58,6 +58,7 @@
   - 2016학년도 1학기 『병원전산실무』 교과 팀 프로젝트 성과 발표회 1등 (대상)
 
 ### 📜 Certifications & Language
+- 🎓 **(주)코멘토 IT 직무부트캠프 수료** (2022.08.16 ~ 2022.09.13) — *금융 IT기업 현직자와 함께하는 Linux기반 IT 운영 실무 경험*
 - **자격증**: 정보처리기사, DASP (데이터아키텍처 준전문가), SQLD (SQL 개발자)
 - **어학**: TOEIC 805
 
