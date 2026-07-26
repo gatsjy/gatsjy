@@ -17,7 +17,6 @@
 ### 🌐 Open Source & Public Projects
 - 🛡️ **[HKDeID](https://github.com/gatsjy/HKDeID)**: LLM에게 병원 통계·자동화 로직 설계를 맡기기 전, 의료 Excel의 개인정보를 안전하게 비식별화하는 규칙 기반 파이썬 툴킷
 - 🩺 **[nurse-scheduler](https://github.com/gatsjy/nurse-scheduler)**: 간호사 근무표 자동화 및 스케줄링 프로젝트 (Python)
-- 👤 **[gatsjy](https://github.com/gatsjy/gatsjy)**: GitHub Profile README 레포지토리
 
 ## 🛠 Tech & Interests
 - **Infra**: 서버 / 네트워크 / 시스템 운영
