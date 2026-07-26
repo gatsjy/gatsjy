@@ -50,13 +50,14 @@
 
 ---
 
-## 📜 Certifications & Awards
+## 📜 Certifications & Education
 
 ### 🏆 Awards
 - 🥇 **대상** — 건양대학교 미래기술융합연구원장 (2016.06.16)
   - 2016학년도 1학기 『병원전산실무』 교과 팀 프로젝트 성과 발표회 1등 (대상)
 
-### 📜 Certifications & Language
+### 📖 Training & Certifications
+- 💻 **한국휴렛앤팩커드(HP) UX/UI 엔지니어링 과정 수료** (2017.08 ~ 2017.11)
 - 🎓 **(주)코멘토 IT 직무부트캠프 수료** (2022.08.16 ~ 2022.09.13) — *금융 IT기업 현직자와 함께하는 Linux기반 IT 운영 실무 경험*
 - **자격증**: 정보처리기사, DASP (데이터아키텍처 준전문가), SQLD (SQL 개발자)
 - **어학**: TOEIC 805
