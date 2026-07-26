@@ -86,5 +86,5 @@
 ---
 
 ## 📫 Contact
-- Email: [이메일]
+- Email: gatsjy@knuh.kr
 - LinkedIn: [링크드인 주소]
