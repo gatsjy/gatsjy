@@ -32,6 +32,7 @@
 
 ## 📌 Featured Projects
 
+- 🏥 **[infra_admin](https://github.com/gatsjy/infra_admin)**: 전산실 서버룸 2D 평면도 & 랙(Rack) 실장도 시각화, OS/WEB/WAS/DB 버전 관리, 도메인 자동점검 및 폐쇄망 진단 도구
 - 🩺 **[nurse-scheduler](https://github.com/gatsjy/nurse-scheduler)**: 간호사 근무표 자동화 및 스케줄링 프로젝트 (Python)
 
 ---
