@@ -31,11 +31,6 @@
 ## 📌 Featured Projects
 
 - 🖥️ **[window_log_monitor](https://github.com/gatsjy/window_log_monitor)**: Windows 서버 ~50대 대상 중앙 로그 수집·모니터링 & 알람 오픈소스 시스템 (Grafana, Loki, Prometheus, Alloy, Alertmanager, PostgreSQL)
-- ☁️ **[직무부트캠프] 금융 IT기업 현직자와 함께하는 Linux 기반 IT 운영 실무 경험** *(2022.08 ~ 2022.09)*
-  - **AWS 클라우드 인프라 구축**: VPC Multi-AZ 이중화 Subnet, Bastion Host, NAT Instance 구축 및 IAM / MFA 보안 정책 수립
-  - **EKS & Kubernetes 서비스**: Amazon EKS 클러스터 & Worker NodeGroup 구성, Nginx 컨테이너 배포 및 LoadBalancer 연동
-  - **EFK Stack 로그 모니터링**: Fluentd(DaemonSet) 기반 컨테이너 중앙 집중 로그 수집, Elasticsearch 인덱싱 및 Kibana 시각화 대시보드 구축
-  - **클라우드 운영 & 백업 정책**: CloudWatch / CloudTrail / VPC Flow Logs 모니터링 및 EC2 백업·복구 정책 수립
 - 🏥 **[infra_admin](https://github.com/gatsjy/infra_admin)**: 전산실 서버룸 2D 평면도 & 랙(Rack) 실장도 시각화, OS/WEB/WAS/DB 버전 관리, 도메인 자동점검 및 폐쇄망 진단 도구
 - 🩺 **[nurse-scheduler](https://github.com/gatsjy/nurse-scheduler)**: 간호사 근무표 자동화 및 스케줄링 프로젝트 (Python)
 
