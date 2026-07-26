@@ -23,6 +23,13 @@
 
 ---
 
+## 🎓 Education
+
+- 💻 **한국방송통신대학교** 컴퓨터과학과
+- 🏥 **건양대학교** 병원경영학과
+
+---
+
 ## 📌 Featured Projects
 
 - 🛡️ **[HKDeID](https://github.com/gatsjy/HKDeID)**: LLM에게 병원 통계·자동화 로직 설계를 맡기기 전, 의료 Excel의 개인정보를 안전하게 비식별화하는 규칙 기반 파이썬 툴킷
