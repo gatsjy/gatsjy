@@ -39,16 +39,18 @@
 
 ## 📜 Certifications & Languages
 
-- **자격증**: 정보처리기사, DASP (데이터아키텍처 준전문가), SQLD (SQL 개발자), ADsP (준비 중)
+- **자격증**: 정보처리기사, DASP (데이터아키텍처 준전문가), SQLD (SQL 개발자)
 - **어학**: TOEIC 805
 
 ---
 
-## 🌱 Currently Learning
+## 🎯 Goals & TODO List
 
-- AWS Solutions Architect (SAA)
-- 정보보안기사
-- 의료 데이터 · AI 시대의 보안 & 프라이버시
+- [ ] ☁️ **AWS Solutions Architect (SAA)** 자격증 취득
+- [ ] 📊 **ADsP (데이터분석 준전문가)** 자격증 취득
+- [ ] 🔐 **정보보안기사** 자격증 취득
+- [ ] 🩺 의료 데이터 & AI 시대의 **보안 / 개인정보 프라이버시** 연구
+- [ ] 📝 개인 기술 블로그 구축 및 TIL(Today I Learned) 꾸준히 기록하기
 
 ---
 
