@@ -1,12 +1,26 @@
 # 👋 안녕하세요, jj입니다
 
-> 병원과 의료IT 벤더를 모두 경험한 **의료 인프라 엔지니어**입니다.  
-> 지금은 **클라우드와 보안**으로 전문성을 넓혀가고 있습니다.
+> **대학병원 인프라 엔지니어**이자 **의료IT EMR 개발자** 출신 엔지니어입니다.  
+> 의료 현장(SI/SM)과 병원 인프라(서버·네트워크·시스템)를 두루 경험했으며, 현재 **클라우드와 정보보안**으로 전문성을 확장해 나가고 있습니다.
 
-## 🏥 About Me
-- 현재 대학병원에서 **인프라(서버·네트워크·시스템)**를 담당하고 있습니다.
-- 이전에 **의료IT 기업**에서 병원정보시스템(EMR)을 다뤘습니다 — 만드는 쪽과 쓰는 쪽을 모두 압니다.
-- 의료 데이터를 이해하고 다루는 데 관심이 많습니다.
+---
+
+## 🏥 About Me & Career Experience
+
+### 🏢 이지케어텍 (의료IT 벤더) — 차세대 의료정보시스템(HIS/EMR) 개발
+- **대형병원 차세대 구축 & 운영 (SI / SM)**
+  - 전남대학교병원, 이대목동병원, 이대서울병원, 신촌세브란스병원, 강남세브란스병원
+- **핵심 개발 모듈**
+  - **처방 (CPOE/EMR)**: 메인 처방, DUR(의약품 안전사용서비스), 약물이상반응(ADR) 관리
+  - **간호 및 약무**: 병동·외래·행정·주사실, 항암주사실 관리, 마약·향정정신성 의약품 관리 화면 개발
+  - **응급 & 외상**: 응급의료센터 및 권역외상센터 EMR 전용 모듈 구축
+  - **인터페이스 & 보안**: 혈액투석 EMR 연동, 외부 인터페이스 전용 View/API 구축 및 시큐어 코딩(SQL Injection 방어)
+
+### 🏥 대학병원 전산실 — 인프라·시스템 운영
+- **인프라 통합 관리**: 서버, 네트워크, DB 및 전산 시스템 전반 운영
+- **인프라 관리 솔루션 개발 (`infra_admin`)**: 서버룸 2D 평면도 & 랙(Rack) 실장도 시각화, OS/WEB/WAS/DB 버전 관리, 도메인 점검 및 폐쇄망 진단 도구 직접 구축
+
+---
 
 ## 📌 Featured Projects
 
@@ -14,29 +28,40 @@
 - 🏥 **[infra_admin](https://github.com/gatsjy/infra_admin)**  
   전산실 서버룸 2D 평면도 & 랙(Rack) 실장도 시각화, WEB/WAS/DB 버전·EOS 관리, 도메인 자동점검 및 폐쇄망 진단 도구 (Python / FastAPI / Web)
 
-### 🌐 Open Source & Public Projects
+### 🌐 Open Source Projects
 - 🛡️ **[HKDeID](https://github.com/gatsjy/HKDeID)**: LLM에게 병원 통계·자동화 로직 설계를 맡기기 전, 의료 Excel의 개인정보를 안전하게 비식별화하는 규칙 기반 파이썬 툴킷
 - 🩺 **[nurse-scheduler](https://github.com/gatsjy/nurse-scheduler)**: 간호사 근무표 자동화 및 스케줄링 프로젝트 (Python)
 
-## 🛠 Tech & Interests
-- **Infra**: 서버 / 네트워크 / 시스템 운영
-- **Data**: SQL · 데이터 분석
-- **Cloud**: AWS (학습 중 ☁️)
+---
+
+## 🛠 Tech Stack
+
+- **Languages & Frameworks**: C#, WPF, Java, Python, SQL (Oracle, MySQL)
+- **Domain Skills**: HIS/EMR (처방, 간호, 응급, 약무), 시큐어 코딩, EMR 외부 인터페이스 연동
+- **Infra & Cloud**: 서버/네트워크/시스템 운영, AWS (학습 중 ☁️)
 - **Security**: 정보보안 · 개인정보보호 (학습 중 🔐)
 
-## 📜 Certifications
-- 정보처리기사
-- DASP (데이터아키텍처 준전문가)
-- SQLD (SQL 개발자)
-- ADsP (데이터분석 준전문가) — 준비 중
+---
+
+## 📜 Certifications & Languages
+
+- **자격증**: 정보처리기사, DASP (데이터아키텍처 준전문가), SQLD (SQL 개발자), ADsP (준비 중)
+- **어학**: TOEIC 805
+
+---
 
 ## 🌱 Currently Learning
+
 - AWS Solutions Architect (SAA)
 - 정보보안기사
-- 의료데이터 · AI 시대의 보안/프라이버시
+- 의료 데이터 · AI 시대의 보안 & 프라이버시
+
+---
 
 ## 📈 GitHub Streak
 ![gatsjy's GitHub Streak](https://streak-stats.demolab.com/?user=gatsjy&theme=radical)
+
+---
 
 ## 📫 Contact
 - Email: [이메일]
