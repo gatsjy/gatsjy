@@ -10,13 +10,9 @@
 
 ## 📌 Featured Projects
 
-### 🔒 Private & Core Projects
+### 🔒 Core Projects
 - 🏥 **[infra_admin](https://github.com/gatsjy/infra_admin)**  
-  전산실 서버룸 2D 평면도 & 랙(Rack) 실장도 시각화, WEB/WAS/DB 버전·EOS 관리, 도메인 자동점검 및 폐쇄망 진단 도구 (Python / FastApi / Web)
-- 📈 **[Project Billionaire Boys: Hossa](https://github.com/gatsjy/Project_billionaire_boys_hossa)**  
-  K-주도주(조선·원전·방산) 모멘텀 추종 & 매크로 공포 점수(Fear Score) 기반 하방 인버스 헷징 파이썬 퀀트 자동매매 봇
-- 🇺🇸 **[Billionaire Boys: Wallstreet](https://github.com/gatsjy/billionaire_boys_wallstreet)**  
-  나스닥 100 2배 레버리지(QLD) 대상 200일 이동평균선 추세추종 & 히스테리시스 밴드 퀀트 매매 시그널 봇
+  전산실 서버룸 2D 평면도 & 랙(Rack) 실장도 시각화, WEB/WAS/DB 버전·EOS 관리, 도메인 자동점검 및 폐쇄망 진단 도구 (Python / FastAPI / Web)
 
 ### 🌐 Open Source & Public Projects
 - 🛡️ **[HKDeID](https://github.com/gatsjy/HKDeID)**: LLM에게 병원 통계·자동화 로직 설계를 맡기기 전, 의료 Excel의 개인정보를 안전하게 비식별화하는 규칙 기반 파이썬 툴킷
@@ -40,9 +36,8 @@
 - 정보보안기사
 - 의료데이터 · AI 시대의 보안/프라이버시
 
-## 📈 GitHub Stats
-![gatsjy's GitHub stats](https://github-readme-stats.vercel.app/api?username=gatsjy&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gatsjy&layout=compact&theme=radical)
+## 📈 GitHub Streak
+![gatsjy's GitHub Streak](https://streak-stats.demolab.com/?user=gatsjy&theme=radical)
 
 ## 📫 Contact
 - Email: [이메일]
