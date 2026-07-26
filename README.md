@@ -66,6 +66,7 @@
 
 ## 🎯 Goals & TODO List
 
+- [ ] ☁️ **AWS EKS & EFK Stack 클라우드 인프라/로그 모니터링 환경 고도화** (IaC/Terraform, Prometheus+Grafana, CI/CD 구축)
 - [ ] ☁️ **AWS Solutions Architect (SAA)** 자격증 취득
 - [ ] 📊 **ADsP (데이터분석 준전문가)** 자격증 취득
 - [ ] 🔐 **정보보안기사** 자격증 취득
