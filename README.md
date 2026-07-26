@@ -65,7 +65,7 @@
 
 ### 📜 Certifications & Language
 - **자격증**: 정보처리기사, DASP (데이터아키텍처 준전문가), SQLD (SQL 개발자), 정보보안기사(필기)
-- **어학**: TOEIC 805
+- **어학**: TOEIC 805, OPIc IM2
 
 ---
 
