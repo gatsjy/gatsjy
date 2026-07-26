@@ -17,18 +17,12 @@
   - **인터페이스 & 보안**: 혈액투석 EMR 연동, 외부 인터페이스 전용 View/API 구축 및 시큐어 코딩(SQL Injection 방어)
 
 ### 🏥 대학병원 전산실 — 인프라·시스템 운영
-- **인프라 통합 관리**: 서버, 네트워크, DB 및 전산 시스템 전반 운영
-- **인프라 관리 솔루션 개발 (`infra_admin`)**: 서버룸 2D 평면도 & 랙(Rack) 실장도 시각화, OS/WEB/WAS/DB 버전 관리, 도메인 점검 및 폐쇄망 진단 도구 직접 구축
+- **인프라 통합 관리**: 서버, 네트워크, DB 및 전산 시스템 전반 운영 및 유지관리
 
 ---
 
 ## 📌 Featured Projects
 
-### 🔒 Core Projects
-- 🏥 **[infra_admin](https://github.com/gatsjy/infra_admin)**  
-  전산실 서버룸 2D 평면도 & 랙(Rack) 실장도 시각화, WEB/WAS/DB 버전·EOS 관리, 도메인 자동점검 및 폐쇄망 진단 도구 (Python / FastAPI / Web)
-
-### 🌐 Open Source Projects
 - 🛡️ **[HKDeID](https://github.com/gatsjy/HKDeID)**: LLM에게 병원 통계·자동화 로직 설계를 맡기기 전, 의료 Excel의 개인정보를 안전하게 비식별화하는 규칙 기반 파이썬 툴킷
 - 🩺 **[nurse-scheduler](https://github.com/gatsjy/nurse-scheduler)**: 간호사 근무표 자동화 및 스케줄링 프로젝트 (Python)
 
