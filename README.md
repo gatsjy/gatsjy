@@ -41,7 +41,7 @@
 
 ## 🛠 Tech Stack
 
-- **Languages & Frameworks**: C#, WPF, Java, Python, SQL (Oracle, MySQL)
+- **Languages & Frameworks**: C#, WPF, Java, Python, SQL (Oracle, MySQL, PostgreSQL)
 - **Cloud & DevOps**: AWS (VPC, EKS, EC2, IAM, CloudWatch), Kubernetes, Docker, Loki, Prometheus, Grafana, Linux
 - **Domain Skills**: HIS/EMR (처방, 간호, 응급, 약무), 데이터중심병원 연구, 공공데이터 관리, 시큐어 코딩
 - **Infra & Security**: 서버/네트워크/시스템 운영, 정보보안 · 개인정보보호 (학습 중 🔐)
