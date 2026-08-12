@@ -32,7 +32,7 @@
 
 ## 📌 Featured Projects
 
-- 📊 **[의료 예측 모델 발표 자료](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2Fgatsjy%2Fgatsjy%2Fmain%2Fpresentations%2Fmedical-prediction-model.pptx)**
+- 📊 **[Medical Prediction Model Presentation](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2Fgatsjy%2Fgatsjy%2Fmain%2Fpresentations%2Fmedical-prediction-model.pptx)**
 - 🖥️ **[window_log_monitor](https://github.com/gatsjy/window_log_monitor)**: Windows 서버 ~50대 대상 중앙 로그 수집·모니터링 & 알람 오픈소스 시스템 (Grafana, Loki, Prometheus, Alloy, Alertmanager, PostgreSQL)
 - 🏥 **[infra_admin](https://github.com/gatsjy/infra_admin)**: 전산실 서버룸 2D 평면도 & 랙(Rack) 실장도 시각화, OS/WEB/WAS/DB 버전 관리, 도메인 자동점검 및 폐쇄망 진단 도구
 - 🩺 **[nurse-scheduler](https://github.com/gatsjy/nurse-scheduler)**: 간호사 근무표 자동화 및 스케줄링 프로젝트 (Python)
